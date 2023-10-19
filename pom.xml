@@ -6,4 +6,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - test_wwww</name>
   <url>http://maven.apache.org</url>
+  <dependencies>
+    <!--의존성주입인데 일단 테스트용-->
+  </dependencies>
 </project>
